@@ -1,0 +1,40 @@
+/*-- CryptoFundFolio --*/
+
+body {
+  font-family: 'Roboto', sans-serif!important;
+}
+nav {
+  font-family: 'Poppins', sans-serif!important;
+}
+
+h1 {
+  font-size: 4em !important;
+  color: white;
+  font-weight: bold;
+  text-shadow: 3px 2px black;
+}
+
+.bg-custom-1 {
+  background-color: #ffc108;
+  border-bottom: .5px solid white;
+}
+.bg-custom-2 {
+  border-radius: 25px;
+  padding: 6px;
+  background: rgba(0, 0, 0, 0.6);
+  border: 0.3px solid #ffc108;
+}
+.bkshadow {
+  font-size: 1.3em;
+  text-shadow: 2px 2px black;
+}
+
+.carBack {margin: 50px;}
+
+.navbardrp {
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.6);
+}
+
+.navbardrp2 {
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+}
